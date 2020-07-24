@@ -4,7 +4,7 @@ Todo App using Create-react-app, Axios, Nodejs, Express, Mongoose and JSON Web T
 
 ### Installation
 
--   Git clone this repo [here](https://github.com/luisccode/TodoApp-react-nodejs). [Demo](https://todoappreactnodejs.netlify.app/)
+-   Git clone this repo [here](https://github.com/luisccode/TodoApp-react-nodejs).
 -   Move into the folder from your terminal:
 
 ```sh
