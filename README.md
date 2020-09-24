@@ -1,6 +1,6 @@
 # Todo App
 
-Todo App using Create-react-app, Axios, Nodejs, Express, Mongoose and JSON Web Tokens. [Demo](https://todoappreactnodejs.netlify.app/)
+To-do App with authentication and tasks grouped by projects, which can be created, read, updated, deleted, and completed using Create-react-app, Axios, Nodejs, Express, Mongoose, and JSON Web Tokens. [Demo](https://todoappreactnodejs.netlify.app/)
 
 ### Installation
 

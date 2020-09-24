@@ -12,7 +12,7 @@ const TaskList = () => {
     if (!currentproject) return <h2>Select a Project</h2>;
     return (
         <Fragment>
-            <h2>Proyecto: {currentproject.name} </h2>
+            <h2>Project: {currentproject.name} </h2>
 
             <ul className="task-list">
                 {currenttasks.length === 0 ? (
